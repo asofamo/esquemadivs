@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header {
+    background-color: #FFA900;
+    padding: 10px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+#nav {
+    background-color: #FF3033;
+    padding: 10px;
+    height: 70px;
+    margin-bottom: 10px;
+}
+#left {
+    background-color: #6EF4FF;
+    padding: 10px;
+    float: left;
+    height: 600px;
+    width: 30%;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+#center {
+    background-color: #ADFF39;
+    padding: 10px;
+    float: left;
+    height: 600px;
+    width: 35%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#right {
+    background-color: #D185FF;
+    padding: 10px;
+    float: right;
+    height: 600px;
+    width: 30%;
+    margin-bottom: 10px;
+}
+#section {
+    background-color: #FFDE43;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+}
+#sec {
+    background-color: #373DFF;
+    padding: 10px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#footer {
+    background-color: #82F4FF;
+    padding: 10px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+#menufijo {
+    background-color: #A64CFF;
+    padding: 10px;
+    height: 70px;
+    width: 30%;
+    position: fixed;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-left: 35%;
+}
